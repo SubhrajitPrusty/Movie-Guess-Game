@@ -1,6 +1,6 @@
 import random
 
-m = open("/Users/Subhrajit/Desktop/list.txt","r+")
+m = open("/list.txt","r+")
 full = m.read()
 
 mlis = full.split("\n")
